@@ -6,8 +6,10 @@ sample file without
 
 sample file without need to test
 
+sample file has to
 sample file without
-sample file without
+
+its updated and should how conflict
 
 sample file updated line with another user
 
